@@ -1,5 +1,6 @@
 # Temporizador en C++
 No hace falta instalar algun programa externo, con solo ejecutar el .exe ya funciona el programa.
+
 Tecnologia utilizada:
 - **C++**
 
